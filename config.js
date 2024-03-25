@@ -1,16 +1,16 @@
 new Crawler({
   appId: "NWSU7I9QR1",
-  apiKey: "4f6ca6cc6cf894579d4121d3a775b4bd",
+  apiKey: "04d5e309a908554d31abffb900530d52",
   rateLimit: 8,
   maxDepth: 10,
   startUrls: ["https://kmin-blog-v1.vercel.app/"],
   sitemaps: ["https://kmin-blog-v1.vercel.app/sitemap.xml"],
   ignoreCanonicalTo: true,
-  discoveryPatterns: ["https://YOUR_WEBSITE_URL/**"],
+  discoveryPatterns: ["https://kmin-blog-v1.vercel.app/**"],
   actions: [
     {
       indexName: "dev_kminblogv1",
-      pathsToMatch: ["https://YOUR_WEBSITE_URL/**"],
+      pathsToMatch: ["https://kmin-blog-v1.vercel.app/**"],
       recordExtractor: ({ $, helpers }) => {
         // priority order: deepest active sub list header -> navbar active item -> 'Documentation'
         const lvl0 =

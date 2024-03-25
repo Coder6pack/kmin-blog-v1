@@ -79,10 +79,10 @@ const config: Config = {
       ],
     },
     algolia: {
-      apiKey: "04d5e309a908554d31abffb900530d52",
       appId: "NWSU7I9QR1",
+      apiKey: "04d5e309a908554d31abffb900530d52",
       indexName: "dev_kminblogv1",
-      contextualSearch: true,
+      // contextualSearch: false,
     },
     footer: {
       style: "dark",
