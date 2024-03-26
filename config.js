@@ -1,5 +1,5 @@
 new Crawler({
-  appId: "NWSU7I9QR1",
+  appId: "YOUR_APNWSU7I9QR1P_ID",
   apiKey: "04d5e309a908554d31abffb900530d52",
   rateLimit: 8,
   maxDepth: 10,
