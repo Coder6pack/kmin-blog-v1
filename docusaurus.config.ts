@@ -80,7 +80,7 @@ const config: Config = {
     },
     algolia: {
       appId: "D0RA2TZ414",
-      apiKey: "7f5b1fe76c62b787cf7c297208ee61bb",
+      apiKey: "fce594ad11ee0ea40351d1fe4fc28594",
       indexName: "dev_kminblognew",
       contextualSearch: true,
     },
