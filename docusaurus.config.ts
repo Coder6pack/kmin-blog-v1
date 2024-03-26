@@ -82,9 +82,6 @@ const config: Config = {
       appId: "ZQ9GFQ1PR0",
       apiKey: "006d76853fcd954b1a5c6f019a8aefef",
       indexName: "kmin--v1",
-      contextualSearch: true,
-      searchParameters: {},
-      searchPagePath: "false",
     },
     footer: {
       style: "dark",
