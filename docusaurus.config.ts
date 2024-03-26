@@ -80,7 +80,7 @@ const config: Config = {
     },
     algolia: {
       appId: "ZQ9GFQ1PR0",
-      apiKey: "006d76853fcd954b1a5c6f019a8aefef",
+      apiKey: "102f63ba8365604dbc80e3c537a87866",
       indexName: "kmin--v1",
     },
     footer: {
