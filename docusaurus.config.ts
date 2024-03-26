@@ -79,9 +79,9 @@ const config: Config = {
       ],
     },
     algolia: {
-      appId: "ZQ9GFQ1PR0",
-      apiKey: "102f63ba8365604dbc80e3c537a87866",
-      indexName: "kmin--v1",
+      appId: "D0RA2TZ414",
+      apiKey: "7f5b1fe76c62b787cf7c297208ee61bb",
+      indexName: "dev_kminblognew",
       contextualSearch: true,
     },
     footer: {
